@@ -1,0 +1,14 @@
+layout_spectrum: 0.9461924522183836
+typography_spectrum: 0.875350798945874
+color:
+  brandStrength: 0.562853971729055
+  lightness: 0.4434875415172428
+  saturation: 0.12532041664235294
+  rhythmicContrast: 0.37434065993875265
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: space jumper
